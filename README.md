@@ -1,6 +1,4 @@
-# Finding Lane Lines On The
-
-# Road.
+# Finding Lane Lines On The Road.
 
 # Reflections:
 
